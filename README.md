@@ -1,6 +1,7 @@
 # A387-Jarkom-Labs
 
 Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
+Git Clone: https://github.com/dicodingacademy/a387-jarkom-labs.git
 
 ---
 
